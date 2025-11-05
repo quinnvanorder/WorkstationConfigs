@@ -14,3 +14,4 @@ lynnwoodtimes.com##[data-widget_type="button.default"]:has(a[href*="/subscriptio
 lynnwoodtimes.com##[data-widget_type="image.default"]:has(img[src*="/lt_icon.jpg"])
 lynnwoodtimes.com##[data-element_type="container"]:has(>.e-con-inner > [data-widget_type="social-icons.default"] + [data-widget_type="button.default"]:has-text(/NEWSLETTER/)) .elementor-widget
 lynnwoodtimes.com##[data-widget_type="nav-menu.default"]:has(a[href*="/lynnwood-times-e-edition"]):has(a[href*="/category/advice-opinion"]):has(a[href*="/category/sports"]) nav
+lynnwoodtimes.com##[data-element_type="container"]:has([data-widget_type="theme-post-content.default"]):style(width: 100% !important)

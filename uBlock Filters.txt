@@ -1,0 +1,16 @@
+! Ad Blocker
+lynnwoodtimes.com##div.g:has(a.gofollow[data-track])
+! Crap Cleanup
+lynnwoodtimes.com##[data-widget_type="share-buttons.default"]
+lynnwoodtimes.com##[data-widget_type="post-comments.theme_comments"]
+lynnwoodtimes.com##.elementor-spacer-inner
+lynnwoodtimes.com##.elementor-location-footer
+lynnwoodtimes.com##[data-element_type="container"]:has(>.e-con-inner:empty)
+lynnwoodtimes.com##[data-element_type="container"]:has(>[data-widget_type="template.default"]:has(.elementor-hidden-mobile))
+lynnwoodtimes.com##[data-element_type="container"]:has(>.e-con-inner > [data-widget_type="shortcode.default"] + [data-widget_type="heading.default"]:has-text(/TRENDING ON SOCIAL MEDIA/))
+lynnwoodtimes.com##.elementor-widget:has(iframe[src*="facebook.com"])
+lynnwoodtimes.com##div:has(img[alt="Verified by MonsterInsights"])
+lynnwoodtimes.com##[data-widget_type="button.default"]:has(a[href*="/subscriptions"])
+lynnwoodtimes.com##[data-widget_type="image.default"]:has(img[src*="/lt_icon.jpg"])
+lynnwoodtimes.com##[data-element_type="container"]:has(>.e-con-inner > [data-widget_type="social-icons.default"] + [data-widget_type="button.default"]:has-text(/NEWSLETTER/)) .elementor-widget
+lynnwoodtimes.com##[data-widget_type="nav-menu.default"]:has(a[href*="/lynnwood-times-e-edition"]):has(a[href*="/category/advice-opinion"]):has(a[href*="/category/sports"]) nav

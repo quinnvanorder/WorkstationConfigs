@@ -1,3 +1,8 @@
+! Hide O365 "Reactions" button in Outlook
+outlook.office365.com##button[aria-label="Reactions"]
+outlook.office.com##button[aria-label="Reactions"]
+outlook.live.com##button[aria-label="Reactions"]
+
 ! Lynnwoodtimes.com
 
 !! Ad Blocker
